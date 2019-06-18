@@ -36,7 +36,7 @@ module.exports = {
      },
    });
   },
-
+   //A
   // o que a nossa migration vai fazer caso a gente volte atraz assim deletando a tabela
   down: (queryInterface, Sequelize) => {
     /*
